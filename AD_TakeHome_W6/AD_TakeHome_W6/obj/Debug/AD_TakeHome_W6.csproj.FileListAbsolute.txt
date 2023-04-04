@@ -1,0 +1,12 @@
+C:\Users\William Kesuma\Desktop\APDEV\AD_TakeHome_W6\AD_TakeHome_W6\bin\Debug\AD_TakeHome_W6.exe.config
+C:\Users\William Kesuma\Desktop\APDEV\AD_TakeHome_W6\AD_TakeHome_W6\bin\Debug\AD_TakeHome_W6.exe
+C:\Users\William Kesuma\Desktop\APDEV\AD_TakeHome_W6\AD_TakeHome_W6\bin\Debug\AD_TakeHome_W6.pdb
+C:\Users\William Kesuma\Desktop\APDEV\AD_TakeHome_W6\AD_TakeHome_W6\obj\Debug\AD_TakeHome_W6.csproj.AssemblyReference.cache
+C:\Users\William Kesuma\Desktop\APDEV\AD_TakeHome_W6\AD_TakeHome_W6\obj\Debug\AD_TakeHome_W6.csproj.SuggestedBindingRedirects.cache
+C:\Users\William Kesuma\Desktop\APDEV\AD_TakeHome_W6\AD_TakeHome_W6\obj\Debug\AD_TakeHome_W6.Form1.resources
+C:\Users\William Kesuma\Desktop\APDEV\AD_TakeHome_W6\AD_TakeHome_W6\obj\Debug\AD_TakeHome_W6.Properties.Resources.resources
+C:\Users\William Kesuma\Desktop\APDEV\AD_TakeHome_W6\AD_TakeHome_W6\obj\Debug\AD_TakeHome_W6.csproj.GenerateResource.cache
+C:\Users\William Kesuma\Desktop\APDEV\AD_TakeHome_W6\AD_TakeHome_W6\obj\Debug\AD_TakeHome_W6.csproj.CoreCompileInputs.cache
+C:\Users\William Kesuma\Desktop\APDEV\AD_TakeHome_W6\AD_TakeHome_W6\obj\Debug\AD_TakeHome_W6.exe
+C:\Users\William Kesuma\Desktop\APDEV\AD_TakeHome_W6\AD_TakeHome_W6\obj\Debug\AD_TakeHome_W6.pdb
+C:\Users\William Kesuma\Desktop\APDEV\AD_TakeHome_W6\AD_TakeHome_W6\obj\Debug\AD_TakeHome_W6.BTN_P.resources
